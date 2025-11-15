@@ -1,3 +1,7 @@
+> [!NOTE]  
+> I stopped working on this project shortly after creating it in favor of learning Rust, C#, and HLSL.
+> I'd like to come back to this with real tools instead of Roblox. Multi-threaded CPU based graphics are just not it
+
 # Summary
 This is a basic liquid simulation using the JONSWAP ocean spectrum density model inside Roblox Studio written in Lua(u).
 This demonstrates multiple simulation modes using SkinnedMeshParts, EditableMeshParts, and EditableImages to simulate wave displacement and caustics.
